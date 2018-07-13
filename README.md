@@ -1,5 +1,5 @@
 # messing-with-threejs
-玩Three.js的记录 Record of me learning and playing Three.js
+玩Three.js的记录 Record of me learning and playing with Three.js
 
 **参考资料Resources**
 
