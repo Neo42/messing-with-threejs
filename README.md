@@ -7,7 +7,7 @@
 
 ## 效果预览Result Preview
 **Learning**
-- [Learning 1](https://codepen.io/io42/pen/RBVMvO)
+- [Chapter 1](https://codepen.io/io42/pen/RBVMvO)
 
 **Cooking**
-- [Cooking 1](https://codepen.io/io42/pen/ZjKmbb) 
+- [Recipe 1](https://codepen.io/io42/pen/ZjKmbb) 
